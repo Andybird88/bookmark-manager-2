@@ -9,7 +9,7 @@ group :development, :test do
 end
 
 gem 'capybara'
+gem 'pg'
 gem 'rspec'
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'pg'
