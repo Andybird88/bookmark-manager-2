@@ -12,6 +12,12 @@ As a user
 So that I can access my frequently visited websites 
 I want to see a list of bookmarks
 
+As a user
+So that i can save bookmarks
+I want to be able to create bookmarks
+
+
+
 
 ## To set up the database
 
